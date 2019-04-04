@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.troublesbrewing.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\gb\\Trouble's Brewing\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Trouble's Brewing [Testing]"
+        }
+      }
+    }
+  ]
+}
